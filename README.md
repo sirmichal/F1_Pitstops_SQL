@@ -47,7 +47,7 @@ Answer: In total there are 40 different track, I have paste below 10 top fastest
 
 <img width="270" alt="image" src="https://github.com/sirmichal/F1_Qualifying_SQL/assets/141948117/e58982b4-f7bd-44af-9ba8-a29575df2178">
 
-## Average position in qualifying of Hamilton and Verstappen
+## 📈 Average position in qualifying of Hamilton and Verstappen
 As we have two drivers with a surname "Verstappen", we had to add forename condition.
 ```SQL
 SELECT 
@@ -67,7 +67,7 @@ Answer: Hamilton average position in qualifying is 3 and Verstappen is 5.
 
 <img width="340" alt="image" src="https://github.com/sirmichal/F1_Qualifying_SQL/assets/141948117/0f8d5409-e1cc-487a-9999-6bd184631041">
 
-## Evolution of fastest qualifying time in Monza.
+## ⏩ Evolution of fastest qualifying time in Monza.
 Monza is probably the most known track in F1 calendar. Let's see how the pole position times hase evolved throughout the years.
 To run the query, firstly we had to change the text falues to NULL.
 ```SQL
